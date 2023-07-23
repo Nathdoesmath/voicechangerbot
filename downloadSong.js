@@ -8,7 +8,7 @@ module.exports = {
                 noWarnings: true,
                 paths: "./musicDownloads",
                 output: "music.%(ext)s",
-                format: "bestaudio"
+                format: "wav[asr=44100]/mp3[asr=44100]"
             })
             return 0;
         }catch (e){
