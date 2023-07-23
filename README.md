@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-## This is bad software!
+## This is ~~bad~~ WIP software!
 
 SomeFolder
  - Retrieval-based-Voice-Conversion-WebUI
@@ -16,7 +16,7 @@ SomeFolder
    - indexFiles
    - index.js and other files
 
-Set up
+# Set up
 1. All requirements of Retrieval-based-Voice-Conversion-WebUI fulfilled. (Conda environment, all dependencies installed)
 2. npm install in the voicechangerbot directory.
 3. create config.json with all fields filled out (see config.json.example)
